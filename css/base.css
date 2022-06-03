@@ -3,4 +3,5 @@ body {
   font-size: 20px;
   color: rgb(0, 0, 0);
   font-weight: 400;
+  max-width: 1600px;
 }
