@@ -1,0 +1,130 @@
+.container7 {
+  display: flex;
+  max-width: 1140px;
+  align-items: center;
+  justify-content: flex-start;
+  column-gap: 570px;
+}
+.main9 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 360px;
+}
+.main9text1 {
+  display: flex;
+  position: absolute;
+  margin-left: 565px;
+  margin-top: 493px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 130%;
+
+  color: #1a0a03;
+}
+.container8 {
+  display: flex;
+  max-width: 1140px;
+  align-items: center;
+  justify-content: flex-start;
+  column-gap: 570px;
+}
+.main10 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 360px;
+}
+.fotonojki {
+  display: flex;
+  position: absolute;
+  margin-left: 141px;
+  margin-top: 602px;
+}
+.main11 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 360px;
+}
+.chel {
+  display: flex;
+  position: absolute;
+  margin-left: 312px;
+  margin-top: 601px;
+}
+.krigi {
+  display: flex;
+  position: absolute;
+  margin-left: 666px;
+  margin-top: 593px;
+}
+.kavuchki {
+  display: flex;
+  position: absolute;
+  margin-left: 312px;
+  margin-top: 730px;
+}
+.main11text1 {
+  display: flex;
+  position: absolute;
+  margin-left: 312px;
+  margin-top: 769px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 150%;
+
+  text-align: center;
+
+  color: #1a0a03;
+}
+.main11text2 {
+  display: flex;
+  position: absolute;
+  width: 26em;
+  margin-left: 312px;
+  margin-top: 811px;
+
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main11text3 {
+  display: flex;
+  position: absolute;
+  margin-left: 312px;
+  margin-top: 872px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+}
+.main11text4 {
+  display: flex;
+  position: absolute;
+  margin-left: 312px;
+  margin-top: 901px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.8;
+}

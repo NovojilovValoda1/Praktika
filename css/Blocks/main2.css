@@ -1,0 +1,53 @@
+.container3 {
+  display: flex;
+  max-width: 1140px;
+  align-items: center;
+  justify-content: flex-start;
+  column-gap: 570px;
+}
+.main5 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 588px;
+}
+.maintext1 {
+  position: relative;
+  margin-left: -105px;
+  align-items: flex-start;
+  flex-direction: column;
+  text-align: left;
+}
+.nachalo {
+  display: flex;
+  position: absolute;
+  margin-left: 752px;
+  margin-top: 558px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: 0.05em;
+
+  color: #ee5514;
+}
+.konec {
+  display: flex;
+  position: absolute;
+  width: 14em;
+  margin-left: 530px;
+  margin-top: 598px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 130%;
+
+  text-align: center;
+
+  color: #1a0a03;
+}

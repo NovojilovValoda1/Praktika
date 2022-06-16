@@ -4,4 +4,10 @@ body {
   color: rgb(0, 0, 0);
   font-weight: 400;
   max-width: 1600px;
+  position: absolute;
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }

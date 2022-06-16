@@ -1,0 +1,258 @@
+.container10 {
+  display: flex;
+  max-width: 1600px;
+  align-items: center;
+  justify-content: flex-start;
+  column-gap: 570px;
+}
+.main14 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1600px;
+}
+.main14fon {
+  display: flex;
+  position: relative;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.main14logo {
+  display: flex;
+  position: absolute;
+  margin-left: 144px;
+  margin-top: 99px;
+}
+.main14text1 {
+  display: flex;
+  position: absolute;
+  width: 13em;
+  margin-left: 145px;
+  margin-top: 166px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main14text2 {
+  display: flex;
+  position: absolute;
+  margin-left: 146px;
+  margin-top: 231px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.massegers {
+  display: flex;
+  position: absolute;
+  margin-left: 146px;
+  margin-top: 278px;
+}
+.main15 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 111px;
+}
+.main15text1 {
+  display: flex;
+  position: absolute;
+  margin-left: -1672px;
+  margin-top: -109px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+}
+.main15text2 {
+  display: flex;
+  position: absolute;
+  margin-left: -1672px;
+  margin-top: -51px;
+
+  opacity: 0.7;
+}
+.main15text3 {
+  display: flex;
+  position: absolute;
+  margin-left: -1670px;
+  margin-top: -10px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main15text4 {
+  display: flex;
+  position: absolute;
+  margin-left: -1671px;
+  margin-top: 16px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main16 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 167px;
+}
+.main16text1 {
+  display: flex;
+  position: absolute;
+  margin-left: -2040px;
+  margin-top: -106px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+}
+.main16text2 {
+  display: flex;
+  position: absolute;
+  margin-left: -2040px;
+  margin-top: -51px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+  opacity: 0.7;
+}
+.main16text3 {
+  display: flex;
+  position: absolute;
+  margin-left: -2040px;
+  margin-top: -10px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+  opacity: 0.7;
+}
+.main16text4 {
+  display: flex;
+  position: absolute;
+  margin-left: -2040px;
+  margin-top: 16px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main17 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 320px;
+}
+.main17text1 {
+  display: flex;
+  position: absolute;
+  margin-left: -2258px;
+  margin-top: -109px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+}
+.main17text2 {
+  display: flex;
+  position: absolute;
+  width: 15em;
+  margin-left: -2258px;
+  margin-top: -50px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.shtoto2 {
+  display: flex;
+  position: absolute;
+  margin-left: -2262px;
+  margin-top: 40px;
+}
+.main18 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1440px;
+}
+.main18line {
+  display: flex;
+  position: absolute;
+  margin-left: -3644px;
+  margin-top: 157px;
+}
+.main18text1 {
+  display: flex;
+  position: absolute;
+  margin-left: -3239px;
+  margin-top: 179px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+
+  text-align: center;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}

@@ -1,0 +1,66 @@
+.container9 {
+  display: flex;
+  max-width: 1140px;
+  align-items: center;
+  justify-content: flex-start;
+  column-gap: 570px;
+}
+.main12 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 488px;
+}
+.logopuma {
+  display: flex;
+  position: absolute;
+  margin-left: 112px;
+  margin-top: 326px;
+}
+.main13 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 652px;
+}
+.fonmain13 {
+  display: flex;
+  position: relative;
+  margin-left: 61px;
+  margin-top: 1043px;
+}
+.main13text1 {
+  display: flex;
+  position: absolute;
+  margin-left: 119px;
+  margin-top: 1095px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 31px;
+  line-height: 140%;
+
+  color: #1a0a03;
+}
+.main13text2 {
+  display: flex;
+  position: absolute;
+  width: 29em;
+  margin-left: 118px;
+  margin-top: 1150px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.shtoto {
+  display: flex;
+  position: absolute;
+  margin-left: 118px;
+  margin-top: 1275px;
+}

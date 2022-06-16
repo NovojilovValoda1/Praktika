@@ -1,0 +1,159 @@
+.container5 {
+  display: flex;
+  max-width: 1140px;
+  align-items: center;
+  justify-content: flex-start;
+  column-gap: 570px;
+}
+.main7 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1140px;
+}
+.main7text1 {
+  display: flex;
+  position: absolute;
+  margin-left: 151px;
+  margin-top: 91px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+
+  letter-spacing: 0.05em;
+
+  color: #ee5514;
+}
+.main7text2 {
+  display: flex;
+  position: absolute;
+  margin-left: 146px;
+  margin-top: 138px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 130%;
+
+  color: #1a0a03;
+}
+.main7text3 {
+  display: flex;
+  position: absolute;
+  margin-left: 143px;
+  margin-top: 237px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+
+  letter-spacing: 0.05em;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main7text4 {
+  display: flex;
+  position: absolute;
+  margin-left: 317px;
+  margin-top: 240px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+
+  letter-spacing: 0.05em;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main7text5 {
+  display: flex;
+  position: absolute;
+  margin-left: 382px;
+  margin-top: 240px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 140%;
+
+  letter-spacing: 0.05em;
+
+  color: #ee5514;
+}
+.linia {
+  display: flex;
+  position: absolute;
+  margin-left: 381px;
+  margin-top: 274px;
+}
+.main7text6 {
+  display: flex;
+  position: absolute;
+  margin-left: 492px;
+  margin-top: 240px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+
+  letter-spacing: 0.05em;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.main7text7 {
+  display: flex;
+  position: absolute;
+  margin-left: 610px;
+  margin-top: 240px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+
+  letter-spacing: 0.05em;
+
+  color: #1a0a03;
+
+  opacity: 0.7;
+}
+.blekluy {
+  display: flex;
+  position: relative;
+  margin-left: 1243px;
+  margin-top: 214px;
+}
+.strelchka {
+  position: absolute;
+  margin-left: 1260px;
+  margin-top: 230px;
+}
+.yarkiy {
+  display: flex;
+  position: absolute;
+  margin-left: 1338px;
+  margin-top: 213px;
+}
+.strelchka1 {
+  display: flex;
+  position: absolute;
+  margin-left: 1356px;
+  margin-top: 228px;
+}
